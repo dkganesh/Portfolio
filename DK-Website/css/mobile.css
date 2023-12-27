@@ -319,7 +319,7 @@
 
     #Contact{
         /* border: 2px solid; */
-        height: 90vh;
+        height: fit-content;
         width: 95%;
         margin: 1.2em auto 5em auto;
     }
