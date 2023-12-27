@@ -80,7 +80,7 @@
     }
     body:has(.active-mob){
         transform: translateY(300px);
-        transition: .3s;
+        transition: 1s;
         /* position: relative; */
     }
     header:has(.active-mob){
