@@ -39,7 +39,7 @@
         height: 40%;
         width: 12%;
         margin: auto;
-        border: 2px solid;
+/*         border: 2px solid; */
         margin-right: 1em;
         display: flex;
         flex-direction: column;
@@ -47,7 +47,7 @@
         align-items: center;
         padding: 3px;
         border-radius: 3px;
-        border: 2px solid var(--c1);
+/*         border: 2px solid var(--c1); */
         cursor: pointer;
         transition:.5s;
     }
